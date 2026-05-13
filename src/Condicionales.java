@@ -11,7 +11,13 @@ public class Condicionales {
         //Condicional para verificar numero par
         if(numero1 % 2 == 0){
             System.out.println(numero1 + " es par");
-
+//Metodo imprimir la edad de la persona
+    static void imprimirEdad(){
+            System.out.println("Edad:" edad);
+    }
+            
         }
     }
 }
+
+    
